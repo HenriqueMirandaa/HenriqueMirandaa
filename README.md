@@ -1,17 +1,16 @@
 
-<!-- HEADER / BANNER -->
+<!-- ==================== HEADER ==================== -->
+
 <div align="center">
 
-  
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B72,100:007BFF&height=190&section=header&text=Henrique%20Miranda&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Computer%20Engineering&descSize=15&descAlignY=58&animation=fadeIn" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B72,100:007BFF&height=190&section=header&text=Henrique%20Miranda&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20Computer%20Engineering&descSize=15&descAlignY=58&animation=fadeIn" />
 
   <p>
     <a href="https://henriquemiranda.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://github.com/HenriqueMirandaa">
-      <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-Profile-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
@@ -57,13 +56,13 @@ I'm a Software Developer and Computer Engineering student interested in building
 <div align="center">
 
   <a href="https://henriquemiranda.vercel.app/">
-    <img src="https://img.shields.io/badge/Personal%20Portfolio-Explore-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Portfolio" />
+    <img src="https://img.shields.io/badge/Personal%20Portfolio-Explore-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Portfolio" />
   </a>
 
   <br /><br />
 
   <a href="https://github.com/HenriqueMirandaa?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" />
   </a>
 
 </div>
@@ -74,9 +73,9 @@ I'm a Software Developer and Computer Engineering student interested in building
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HenriqueMirandaa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=HenriqueMirandaa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=60A5FA&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics" />
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMirandaa&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueMirandaa&layout=compact&hide_border=true&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9" alt="Most used programming languages" />
 
 </div>
 
@@ -84,24 +83,8 @@ I'm a Software Developer and Computer Engineering student interested in building
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=45&section=footer" width="100%" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,50:123B72,100:0D1117&height=100&section=footer" alt="" />
 
   <sub>Building, learning, and improving — one project at a time.</sub>
 
 </div>
-
-
-<!--
-**HenriqueMirandaa/HenriqueMirandaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
